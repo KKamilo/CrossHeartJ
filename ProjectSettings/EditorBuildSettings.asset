@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c09f4b0b2a9226946aa44a3dd8ffdfa6
+  - enabled: 1
+    path: Assets/Scenes/EscuelaPizo1.unity
+    guid: aff55ba225f06474a8d7456641a33061
+  - enabled: 1
+    path: Assets/Scenes/EscuelaPizo2.unity
+    guid: 792e1c2f874e97b4bb26c98204e685f2
   m_configObjects: {}
